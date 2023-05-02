@@ -1,0 +1,1 @@
+export const amazonUrl = require("../assets/img/amazon.png")
